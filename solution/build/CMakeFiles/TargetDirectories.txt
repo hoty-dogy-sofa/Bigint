@@ -1,0 +1,4 @@
+/home/sofa/Bigint/solution/build/CMakeFiles/bigint.dir
+/home/sofa/Bigint/solution/build/CMakeFiles/example.dir
+/home/sofa/Bigint/solution/build/CMakeFiles/edit_cache.dir
+/home/sofa/Bigint/solution/build/CMakeFiles/rebuild_cache.dir
